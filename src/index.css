@@ -1,0 +1,16 @@
+body {
+  background-image: url('https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xMuIOwjliGUPjkzukeWKfw.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif; /* Example font family */
+  color: white;
+  font-size: 30px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

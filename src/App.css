@@ -1,0 +1,75 @@
+.d1{
+  margin-top: 15%;
+  background-color: rgb(50, 50, 255,0.3);
+  border: solid 2px rgb(12, 1, 10);
+  padding: 80px;
+  width: 450px;
+}
+
+button{
+  margin: 30px;
+  padding: 10px;
+  border: solid 1px ;
+  background: rgba(142, 26, 138, 0.396);
+  border-radius: 10%;
+  color: aliceblue;
+  font-size: large;
+}
+
+.addQuiz{
+  background-color: rgb(50, 50, 255,0.3);
+  border: solid 2px rgb(12, 1, 10);
+  padding: 30px;
+  background-size: 100vh 100vm;
+  height: 493px;
+}
+#timer{
+  display: flex;
+  margin-left: 2%;
+  color: red;
+  top:2px;
+}
+
+#qno{
+  display: flex;
+  position: absolute;
+  right:2px;
+  top:50px;
+  margin-right: 2%;
+  color: rgb(90, 205, 247);
+}
+
+.quizBack{
+  display: flex;
+  bottom: 0%;
+  position: absolute;
+  background: rgba(92, 87, 92, 0.396);
+  color: black;
+}
+
+.quizStart{
+  margin: 50px;
+  padding: 10px;
+  border: solid 2px;
+  color: aliceblue;
+  background: rgba(142, 26, 138, 0.396);
+  border-radius: 10px;
+  font-size: large;
+  size: 50px;
+  display: flex;
+  margin-top: 20%;
+}
+
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: red;
+}
+
+#scoretable{
+  font: 25px;
+  color: white;
+
+}
